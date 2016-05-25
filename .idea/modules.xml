@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AWS/AWS.iml" filepath="$PROJECT_DIR$/AWS/AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Global.iml" filepath="$PROJECT_DIR$/Global.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OFS/OFS.iml" filepath="$PROJECT_DIR$/OFS/OFS.iml" />
+    </modules>
+  </component>
+</project>
